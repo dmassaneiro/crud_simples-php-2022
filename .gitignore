@@ -1,2 +1,4 @@
 ##### pasta vendor
 /vendor/*
+
+/composer.json
